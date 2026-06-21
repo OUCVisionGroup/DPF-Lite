@@ -4,9 +4,10 @@
 **Interpretable Physics-Aware Underwater Image Enhancement Boosted by Domain Adaption and Local Physical Prior Embedding**
 
 
+<div id="top" align="left">
 ## ⚙️ Setup
 
-We ran our experiments with PyTorch 2.3.0, CUDA 12.1, Python 3.9.19 and Ubuntu 18.04. This is an optimized version based on domain migration and lightweighting. For details of our previous project DPF-Net, please refer to [here](https://github.com/OUCVisionGroup/DPF-Net)
+We ran our experiments with PyTorch 2.3.0, CUDA 12.1, Python 3.9.19 and Ubuntu 18.04. This is an optimized version based on domain adaption and lightweighting. For details of our previous project DPF-Net, please refer to [here](https://github.com/OUCVisionGroup/DPF-Net)
 
 
 ## 💾 Data Preparation
