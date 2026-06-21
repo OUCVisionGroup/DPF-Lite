@@ -1,7 +1,8 @@
 <div id="top" align="center">
 
 # DPF-Lite
-**Interpretable Physics-Aware Underwater Image Enhancement Boosted by Domain Adaption and Local Physical Prior Embedding**
+**Interpretable Physics-Aware Underwater Image Enhancement Boosted by
+Domain Adaption and Local Physical Prior Embedding**
 
 
 <div id="top" align="left">
