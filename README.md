@@ -16,15 +16,16 @@ We ran our experiments with PyTorch 2.3.0, CUDA 12.1, Python 3.9.19 and Ubuntu 1
 
 We mainly used the UIEB dataset. You can download the UIEB dataset from [here](https://opendatalab.com/OpenDataLab/UIEB) and pre-convert the images to.jpg format. 
 
-As for the training of Degraded Parameters Estimation Module (DPEM), you can download the NYU-Depth-V2 dataset from [here](https://opendatalab.com/OpenDataLab/NYUv2). The absolute depth scale of each image extracted is saved in the file *./DPEM/depth_scale.txt*.
 
 ## 📦 Models
 
-Coming soon.
+In the folder ./checkpoint and ./DPEM/checkpoint
 
 ## 📊 Test
 
-Coming soon.
+```shell
+python test.py
+```
 
 ## 🕒Train
 
